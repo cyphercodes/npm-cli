@@ -162,6 +162,9 @@
   - title: npm shrinkwrap
     url: /commands/npm-shrinkwrap
     description: Lock down dependency versions for publication
+  - title: npm stage
+    url: /commands/npm-stage
+    description: Stage packages for publishing
   - title: npm start
     url: /commands/npm-start
     description: Start a package
