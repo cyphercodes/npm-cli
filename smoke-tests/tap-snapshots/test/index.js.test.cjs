@@ -27,7 +27,7 @@ All commands:
     init, install, install-ci-test, install-test, link, ll,
     login, logout, ls, org, outdated, owner, pack, ping, pkg,
     prefix, profile, prune, publish, query, rebuild, repo,
-    restart, root, run, sbom, search, set, shrinkwrap, start,
+    restart, root, run, sbom, search, set, shrinkwrap, stage, start,
     stop, team, test, token, trust, undeprecate, uninstall,
     unpublish, update, version, view, whoami
 
