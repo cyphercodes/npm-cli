@@ -1,5 +1,13 @@
 # Changelog
 
+### Dependencies
+
+* [workspace](https://github.com/npm/cli/releases/tag/arborist-v9.4.4): `@npmcli/arborist@9.4.4`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmdiff-v8.1.7): `libnpmdiff@8.1.7`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmexec-v10.2.7): `libnpmexec@10.2.7`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmfund-v7.0.21): `libnpmfund@7.0.21`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmpack-v9.1.7): `libnpmpack@9.1.7`
+
 ## [11.13.0](https://github.com/npm/cli/compare/v11.12.1...v11.13.0) (2026-04-22)
 ### Features
 * [`8e8dadb`](https://github.com/npm/cli/commit/8e8dadb8ae378c1dde0b98c15167d739abaa9b37) [#9246](https://github.com/npm/cli/pull/9246) add `u` as alias for `update` command (#9246) (@github-actions[bot], @Ausoj)

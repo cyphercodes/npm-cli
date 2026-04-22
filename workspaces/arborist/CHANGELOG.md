@@ -1,5 +1,9 @@
 # Changelog
 
+## [9.4.4](https://github.com/npm/cli/compare/arborist-v9.4.3...arborist-v9.4.4) (2026-04-22)
+### Bug Fixes
+* [`e7805c3`](https://github.com/npm/cli/commit/e7805c3a47b3c78093e78ac796c8e4120ffea876) [#9254](https://github.com/npm/cli/pull/9254) arborist: propagate overrides through Link nodes to targets (#9198) (@manzoorwanijk)
+
 ## [9.4.3](https://github.com/npm/cli/compare/arborist-v9.4.2...arborist-v9.4.3) (2026-04-22)
 ### Bug Fixes
 * [`7cd45c6`](https://github.com/npm/cli/commit/7cd45c6037e2a09e7692d64d6bf16e1eaa24550a) [#9253](https://github.com/npm/cli/pull/9253) arborist: handle `npm link` with install-strategy=linked (@manzoorwanijk)
